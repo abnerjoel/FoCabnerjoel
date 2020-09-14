@@ -1,0 +1,25 @@
+explain internet
+
+INTERNET ARCHITECTURE
+	Internet is a collection of connected networks.
+In general, these networks are constructed and maintained by organizations called
+Internet Service Providers (ISPs).
+	tier-1 ISP that consist of very
+high-speed, high-capacity, international WANs. These networks are thought of as
+the backbone of the Internet
+	tier-2 ISP that tend to be more
+regional in scope and less potent in their capabilities.
+	Access ISP
+arranges for an individual or an organization to have access to the Internet.
+	
+INTERNET 2 is
+	intended as an academic-only system and involves numerous universities working in
+partnership with industry and government. 
+The goal is to conduct research in internet applications requiring high bandwidth communication, such as remote access
+and control of costly state-of-the-art equipment such as telescopes and medical
+diagnostic devices. An example of current research involves remote surgery performed by robot hands that mimic the hands of a distant surgeon who views the
+patient by video.
+ 
+domains,it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet,
+subdomains, are used as a means of organizing the names
+within a domain

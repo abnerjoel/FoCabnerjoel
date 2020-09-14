@@ -1,0 +1,13 @@
+Add two numbers and display the result for the user.
+
+STEP 1
+enter Number 1
+
+STEP 2 
+enter number 2
+
+STEP 3
+Add number1 to number2
+
+STEP 4
+display result
