@@ -1,18 +1,26 @@
+
 body{
-  margin: 0;
-  padding: 20px 0;
-  font-family: sans-serif;
-  background-image: url(IndexPic2.jpg);
-  background-size: cover;
+    margin: 0;
+    padding:   50px 70px;
+    font-family: sans-serif;
+    background-image: url(IndexPic2.jpg);
+    background-size: cover;
+     
+    float:right;
+    font-family: "Times New Roman", Times, serif;
 }
-.center {
-  padding: 70px 0;
+ .container{
+   font-size: x-large;
+ }
+ header{
+   font-size: 40px;
   text-align: center;
+  line-height: .5cm;
 }
 nav
 {
   width: 100%;
-  background: linen;
+  
   font-weight: bold;
 }
 
@@ -20,21 +28,27 @@ nav ul{
   float: right;
   list-style: none;
   margin-right: 95px;
+  font-size: x-large;
+  
 }
 
 nav ul li{
   display: inline-block;
-  line-height: 30px;
+  line-height: 5px;
+   
 }
 
 nav ul li a{
   color: white;
   text-decoration: none;
   padding: 10px 16px;
+  text-align: center;
   border-radius: 10px;
+  font-size: 30px;
 }
 
 nav ul li a:hover{
   color: rgb(0, 0, 0,);
   background: red;
 }
+
